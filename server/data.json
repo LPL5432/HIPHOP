@@ -1,0 +1,84 @@
+{
+  "lights": {
+    "1": {
+      "state": true,
+      "timerStart": 1747591059638,
+      "history": [
+        {
+          "timestamp": 1747591059638,
+          "state": true
+        }
+      ]
+    },
+    "2": {
+      "state": true,
+      "timerStart": 1747591059638,
+      "history": [
+        {
+          "timestamp": 1747591059638,
+          "state": true
+        }
+      ]
+    },
+    "3": {
+      "state": false,
+      "timerStart": null,
+      "history": []
+    },
+    "4": {
+      "state": false,
+      "timerStart": null,
+      "history": []
+    },
+    "5": {
+      "state": true,
+      "timerStart": 1747591059638,
+      "history": [
+        {
+          "timestamp": 1747591059638,
+          "state": true
+        }
+      ]
+    },
+    "6": {
+      "state": true,
+      "timerStart": 1747591059638,
+      "history": [
+        {
+          "timestamp": 1747591059638,
+          "state": true
+        }
+      ]
+    }
+  },
+  "motionSensorStatic": {
+    "state": false,
+    "history": []
+  },
+  "gasSensor": {
+    "state": false,
+    "history": []
+  },
+  "motionSensorDynamic": {
+    "state": false,
+    "history": []
+  },
+  "temperature": {
+    "current": 21.9,
+    "history": [
+      {
+        "timestamp": 1747591059639,
+        "value": 21.9
+      }
+    ]
+  },
+  "humidity": {
+    "current": 47.1,
+    "history": [
+      {
+        "timestamp": 1747591059639,
+        "value": 47.1
+      }
+    ]
+  }
+}
